@@ -13,7 +13,7 @@
  * @package           Polly
  *
  * @wordpress-plugin
- * Plugin Name:       Polly
+ * Plugin Name:       WP Polly
  * Plugin URI:        https://brightideainteractive.com/
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
