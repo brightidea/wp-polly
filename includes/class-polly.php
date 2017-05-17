@@ -112,7 +112,7 @@ class Polly {
 		/**
 		 * The class responsible for loading aws library
 		 */
-		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'libraries/php-lib-polly/vendor/autoload.php';
+		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'libraries/wna-lib-polly/vendor/autoload.php';
 
 		/**
 		 * The class responsible for the aws polly process.
