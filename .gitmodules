@@ -1,3 +1,3 @@
 [submodule "libraries/wna-lib-polly"]
 	path = libraries/wna-lib-polly
-	url = /Applications/MAMP/htdocs/wna-lib-polly
+url=https://github.com/loq24/wna-lib-polly
