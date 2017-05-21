@@ -116,18 +116,6 @@ class Polly_Admin{
 	 */
 	public function polly_settings_page_details(){
           add_options_page("Polly", "Polly Settings Page", 'update_plugins', "polly", array(&$this,"polly_settings_page"));
-     } 
-
-    /**
-	 * Settings page fields
-	 *
-	 * @since    1.0.0
-	 */ 
-	public function register_my_cool_plugin_settings() {
-		//register our settings
-		register_setting( 'my-cool-plugin-settings-group', 'new_option_name' );
-		register_setting( 'my-cool-plugin-settings-group', 'some_other_option' );
-		register_setting( 'my-cool-plugin-settings-group', 'option_etc' );
-	}
+     }
 
 }
